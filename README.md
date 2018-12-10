@@ -9,7 +9,7 @@ This is where the purpose is defined
 This is how deployment is done
 
 ## How to contribute
-
+Please fork this repository
 Sample website with plenty of files for demos
 
 ##Copyright
