@@ -13,4 +13,4 @@ Please fork this repository
 Sample website with plenty of files for demos
 
 ##Copyright
-
+Adding a copyright
